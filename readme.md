@@ -623,6 +623,7 @@
  - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
  - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
  - [antd](https://github.com/ant-design/ant-design) - A UI Design Language.
+ - [rambler-ui](https://github.com/rambler-digital-solutions/rambler-ui) - React UI library with Rambler&Co design guides.
 
 
 #### Bootstrap
